@@ -1,0 +1,5 @@
+This code is cloned from: 
+https://github.com/meownoid/tensorfow-rbm
+Its worth mentioning you'll need to run these commands to get the example working
+python setup.py install
+pip install tqdm
